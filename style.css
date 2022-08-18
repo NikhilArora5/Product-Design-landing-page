@@ -728,6 +728,7 @@ display: none;
         width: 100%;
     }
     
+   q
 }
 
 
@@ -826,6 +827,22 @@ display: none;
 
     width:530px;
     /* width:360px; */
+}
+
+
+.btm-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+    ;
+    text-align: center;
+}
+
+.btm-cont p{
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 5px;
 }
 }
 
